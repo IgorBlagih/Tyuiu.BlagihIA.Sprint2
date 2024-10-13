@@ -1,7 +1,7 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint2;
 namespace Tyuiu.BlagihIA.Sprint2.Task0.V3.Lib
 {
-    public class DataService : ISprint2Task0V0
+    public class DataService : ISprint2Task0V3
     {
         public bool[] GetCompareOperations(int x, int y)
         {
@@ -16,6 +16,6 @@ namespace Tyuiu.BlagihIA.Sprint2.Task0.V3.Lib
 
             return res;
         }
-    
+
     }
 }

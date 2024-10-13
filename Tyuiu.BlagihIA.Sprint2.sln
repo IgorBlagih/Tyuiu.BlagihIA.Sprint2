@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BlagihIA.Sprint2.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BlagihIA.Sprint2.Task0.V3.Test", "Tyuiu.BlagihIA.Sprint2.Task0.V3.Test\Tyuiu.BlagihIA.Sprint2.Task0.V3.Test.csproj", "{F942AC97-E2FA-4658-BB80-099462D7CBA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{CFEBA1E3-229A-4C2C-9AB1-5B454E102A3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{F942AC97-E2FA-4658-BB80-099462D7CBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F942AC97-E2FA-4658-BB80-099462D7CBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F942AC97-E2FA-4658-BB80-099462D7CBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEBA1E3-229A-4C2C-9AB1-5B454E102A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEBA1E3-229A-4C2C-9AB1-5B454E102A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEBA1E3-229A-4C2C-9AB1-5B454E102A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEBA1E3-229A-4C2C-9AB1-5B454E102A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
