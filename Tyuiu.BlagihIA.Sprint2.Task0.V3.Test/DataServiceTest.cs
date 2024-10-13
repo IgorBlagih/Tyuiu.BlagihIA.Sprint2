@@ -5,7 +5,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task0.V3.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetCompareOperations()
         {
             DataService ds = new DataService();
             int x = 49;
