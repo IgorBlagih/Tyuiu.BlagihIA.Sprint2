@@ -10,7 +10,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки  работы в С#                                       *");
+            Console.WriteLine("* Тема: Базовые навыки  работы в C#                                       *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #20                                                              *");
             Console.WriteLine("* Выполнил: Благих Игорь Александрович | ИИПб-24-2                        *");
