@@ -15,6 +15,8 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20.Test
              
         }
 
+       
+        
         [TestMethod]
         public void ValidCalculate2()
         {
@@ -27,6 +29,8 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20.Test
 
 
 
+      
+        
         [TestMethod]
         public void ValidCalculate3()
         {
@@ -39,6 +43,8 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20.Test
 
 
 
+       
+        
         [TestMethod]
         public void ValidCalculate4()
         {

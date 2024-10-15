@@ -8,6 +8,8 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20
         {
             DataService ds = new DataService();
 
+
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Базовые навыки  работы в C#                                       *");
