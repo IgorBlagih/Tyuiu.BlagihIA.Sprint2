@@ -25,7 +25,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20
 
             Console.WriteLine("Введите x: ");
             double x =Convert.ToDouble(Console.ReadLine());
-
+            
 
 
             Console.WriteLine("***************************************************************************");
