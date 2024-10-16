@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.BlagihIA.Sprint2.Task3.V20.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3635d46cc5b494a78c02d138a0f26d05958676")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dee0ce53fa1d938b0353f683f6eb916464c619b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.BlagihIA.Sprint2.Task3.V20.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.BlagihIA.Sprint2.Task3.V20.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
