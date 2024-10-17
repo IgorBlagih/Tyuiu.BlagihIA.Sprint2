@@ -7,7 +7,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task0.V3
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнил: Благих И.А | ИИПб-24-2";
+            Console.Title =  "Спринт #2 | Выполнил: Благих И.А | ИИПб-24-2";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
