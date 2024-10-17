@@ -12,7 +12,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20.Lib
             }
             else
             {
-                if (x==0)
+                if (x==0 )
                 {
                     y = ((Math.Pow(x, 2) - Math.Cos(Math.Pow(x, 2)) + 10)/((Math.Pow(x, 2))-Math.Sin(Math.Pow(x, 2))+12));
                 }
