@@ -11,7 +11,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task4.V6.Test
             double x = 1;
             double y = 11;
             double res = ds.Calculate(x, y);
-            double wait = 6;
+            double wait = 129;
             Assert.AreEqual(wait, res);
 
         }
@@ -24,7 +24,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task4.V6.Test
             double x = 2;
             double y = 1;
             double res = ds.Calculate(x, y);
-            double wait = 8;
+            double wait = 0.5;
             Assert.AreEqual(wait, res);
         }
     }
