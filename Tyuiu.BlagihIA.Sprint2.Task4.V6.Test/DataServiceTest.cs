@@ -24,6 +24,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task4.V6.Test
             double x = 2;
             double y = 1;
             double res = ds.Calculate(x, y);
+
             double wait = 0.5;
             Assert.AreEqual(wait, res);
         }
