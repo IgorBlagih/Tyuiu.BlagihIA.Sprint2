@@ -19,7 +19,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task3.V20.Lib
                 else
                 {
                     if (-24 < x && x < 2)
-                    {
+                    { 
                       
                         y = Math.Pow((1 + (1/Math.Pow(x, 2))), x);
                     }
