@@ -11,7 +11,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task6.V14.Test
             int k = 1;
             int d = 1;
             string res = ds.FindDayName(k,d);
-            string wait = "понедельник";
+            string wait = "Понедельник";
             Assert.AreEqual(wait, res);
         }
     }

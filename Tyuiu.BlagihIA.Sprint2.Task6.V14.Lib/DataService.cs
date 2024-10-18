@@ -10,13 +10,13 @@ namespace Tyuiu.BlagihIA.Sprint2.Task6.V14.Lib
  
             switch(z)
             {
-                case 0: d = 1; return "понедельник"  ;
-                case 1: return "вторник";
-                case 2: return "среда";
-                case 3: return "четверг";
-                case 4: return "пятница";
-                case 5: return "суббота";
-                case 6: return "воскресенье";
+                case 0: d = 1; return "Понедельник"  ;
+                case 1: return "Вторник";
+                case 2: return "Среда";
+                case 3: return "Четверг";
+                case 4: return "Пятница";
+                case 5: return "Суббота";
+                case 6: return "Воскресенье";
                 default:  return "Ошибка";
             }
         }
