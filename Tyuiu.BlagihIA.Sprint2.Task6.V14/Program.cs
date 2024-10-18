@@ -24,16 +24,19 @@ namespace Tyuiu.BlagihIA.Sprint2.Task6.V14
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите день в году: ");
-            int x = Convert.ToInt32(Console.ReadLine());
-            int y = 1;
+            int k = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Введите день недели c которого начинается год: ");
+            int d = Convert.ToInt32(Console.ReadLine());
             string res;
-            if ((x < 1) || (x > 365))
+
+            if (((k < 1) || (k > 365))||(d < 1 )|| (d > 7))
             {
                 res = "Неверно введен день";
             }
             else
             {
-                res = "Это " + ds.FindDayName(x, y);
+                res = "Это " + ds.FindDayName(k, d);
             }
 
             Console.WriteLine("***************************************************************************");
@@ -41,6 +44,7 @@ namespace Tyuiu.BlagihIA.Sprint2.Task6.V14
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine(res);
+            Console.ReadKey();
         }
     }
 }
